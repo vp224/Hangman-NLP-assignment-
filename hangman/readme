@@ -1,0 +1,11 @@
+There are 2 output files.
+sn1.csv corresponds to point74.py file. It has a levenshtein distance of 0.74 for the test data. It takes about 10 mins running time for the whole test data.
+sn1.csv corresponds to point67.py file. It has a levenshtein distance of 0.67 for the test data. This takes a bit longer time for the predictions, about 40mins.
+
+Team - 
+Srinidhi Bhat	(14CS30035)
+Kinsuk Das      (14CS10025)
+Vishnu Praneeth (14CS30031)
+Vikash Minz		(14CS10052)
+Basava Raj		(14CS10023)
+ 
